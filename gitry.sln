@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gitry", "gitry\gitry.csproj", "{F90D819A-CFB8-4110-96A3-4DB4BAADD071}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F90D819A-CFB8-4110-96A3-4DB4BAADD071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90D819A-CFB8-4110-96A3-4DB4BAADD071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90D819A-CFB8-4110-96A3-4DB4BAADD071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90D819A-CFB8-4110-96A3-4DB4BAADD071}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99D8115C-064F-47E7-972F-DE9A88EB5F8D}
+	EndGlobalSection
+EndGlobal
