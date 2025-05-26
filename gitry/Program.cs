@@ -7,6 +7,7 @@ namespace gitry
 
 
             // this line is added from master
+            //from branch 2
             //one more from master
             //from branch 1
 
