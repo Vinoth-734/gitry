@@ -4,6 +4,11 @@ namespace gitry
     {
         public static void Main(string[] args)
         {
+
+
+            // this line is added from master
+
+
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
@@ -32,5 +37,6 @@ namespace gitry
 
             app.Run();
         }
+        
     }
 }

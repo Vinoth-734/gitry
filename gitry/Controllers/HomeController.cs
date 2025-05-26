@@ -15,7 +15,6 @@ namespace gitry.Controllers
 
         public IActionResult Index()
         {
-            var a = 10;
             return View();
         }
 
