@@ -8,6 +8,7 @@ namespace gitry
 
             // this line is added from master
             //from branch 1
+            //from sub branch of one
 
             var builder = WebApplication.CreateBuilder(args);
 
