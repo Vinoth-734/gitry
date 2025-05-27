@@ -11,7 +11,7 @@ namespace gitry
             //one more from master
             //from branch 1
             //from sub branch of one
-            //push from two to remote
+
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
