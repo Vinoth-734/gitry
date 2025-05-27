@@ -11,9 +11,7 @@ namespace gitry
             //one more from master
             //from branch 1
             //from sub branch of one
-            
 
-            //This is for checkng revert in two 
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
